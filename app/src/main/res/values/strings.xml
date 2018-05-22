@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">w2d1-as7</string>
+    <string name="lbl_input_name">Please input your name.</string>
+    <string name="lbl_save">SAVE</string>
+    <string name="lbl_print">PRINT</string>
+    <string name="fileName">nameLog.txt</string>
+</resources>
